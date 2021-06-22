@@ -14,7 +14,7 @@ This APP provides users with a platform for information acquisition and informat
 
 Help each other to share: share your findings, your mood.
 
-If you have any questions, please contact us at dcavlove@163.com
+If you have any questions, please contact us at ### dcavlove@163.com
 
 
 
